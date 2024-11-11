@@ -8,6 +8,8 @@
     https://github.com/maricamily/functionsAPI
 
     https://github.com/maricamily/agrocareBFF
+
+    Evidências e Documentação (Arc42 e Canvas): https://github.com/beatrizpetry/Evidencias-Documentacao
 ## 1.0 Introdução e Metas
 
 ### 1.1 Visão Geral do Sistema
